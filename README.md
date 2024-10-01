@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project implements a custom question answering chatbot using Langchain and Google Gemini Language Model (LLM). The chatbot is trained on industrial data from an online learning platform, consisting of questions and corresponding answers.
+This project implements a custom question-answering chatbot powered by LangChain and provides an API via FastAPI for access.
 
 ## Tools Used
 
